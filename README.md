@@ -16,4 +16,4 @@ SQL | Machine Learning (coming soon)
 Data Science → Machine Learning → IoT + AI 
 ## 📫 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/ramana-gandham-89b091315/)
-- - Email: dvramanagandham@gmail.com
+- Email: dvramanagandham@gmail.com
