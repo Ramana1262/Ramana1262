@@ -10,7 +10,8 @@
 - IoT — Arduino, Sensors, ESP32 
 SQL | Machine Learning (coming soon) 
 ## 📂 My Projects 
-🔗 [Week 1 - Python Basics](https://github.com/Ramana1262/Data-science-journey) - More projects coming soon... 
+🔗 [Week 1 - Python Basics](https://github.com/Ramana1262/Data-science-journey) 
+🔗 [Week 2 - Loos & Functions](https://github.com/Ramana1262/Data-science-journey) - More projects coming soon... 
 ## 📊 My Learning Journey 
 48-week structured program covering: 
 Data Science → Machine Learning → IoT + AI 
